@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Accordion/static/css/main.0ec4dadb.chunk.css",
-    "main.js": "/Accordion/static/js/main.0d040e41.chunk.js",
-    "main.js.map": "/Accordion/static/js/main.0d040e41.chunk.js.map",
-    "runtime-main.js": "/Accordion/static/js/runtime-main.2665c421.js",
-    "runtime-main.js.map": "/Accordion/static/js/runtime-main.2665c421.js.map",
-    "static/js/2.f745c462.chunk.js": "/Accordion/static/js/2.f745c462.chunk.js",
-    "static/js/2.f745c462.chunk.js.map": "/Accordion/static/js/2.f745c462.chunk.js.map",
-    "index.html": "/Accordion/index.html",
-    "precache-manifest.4c1d7fb0f535b5ea28f1d0a8a27c2677.js": "/Accordion/precache-manifest.4c1d7fb0f535b5ea28f1d0a8a27c2677.js",
-    "service-worker.js": "/Accordion/service-worker.js",
-    "static/css/main.0ec4dadb.chunk.css.map": "/Accordion/static/css/main.0ec4dadb.chunk.css.map",
-    "static/js/2.f745c462.chunk.js.LICENSE.txt": "/Accordion/static/js/2.f745c462.chunk.js.LICENSE.txt"
+    "main.css": "/Accordions/static/css/main.0ec4dadb.chunk.css",
+    "main.js": "/Accordions/static/js/main.0d040e41.chunk.js",
+    "main.js.map": "/Accordions/static/js/main.0d040e41.chunk.js.map",
+    "runtime-main.js": "/Accordions/static/js/runtime-main.bf3ff530.js",
+    "runtime-main.js.map": "/Accordions/static/js/runtime-main.bf3ff530.js.map",
+    "static/js/2.f745c462.chunk.js": "/Accordions/static/js/2.f745c462.chunk.js",
+    "static/js/2.f745c462.chunk.js.map": "/Accordions/static/js/2.f745c462.chunk.js.map",
+    "index.html": "/Accordions/index.html",
+    "precache-manifest.7575f4248f11ddadf03b6db6e25f61db.js": "/Accordions/precache-manifest.7575f4248f11ddadf03b6db6e25f61db.js",
+    "service-worker.js": "/Accordions/service-worker.js",
+    "static/css/main.0ec4dadb.chunk.css.map": "/Accordions/static/css/main.0ec4dadb.chunk.css.map",
+    "static/js/2.f745c462.chunk.js.LICENSE.txt": "/Accordions/static/js/2.f745c462.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2665c421.js",
+    "static/js/runtime-main.bf3ff530.js",
     "static/js/2.f745c462.chunk.js",
     "static/css/main.0ec4dadb.chunk.css",
     "static/js/main.0d040e41.chunk.js"
